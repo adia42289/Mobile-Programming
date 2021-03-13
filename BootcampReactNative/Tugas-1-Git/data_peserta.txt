@@ -1,0 +1,5 @@
+Data Mahasiswa Teknik Informatika STT Wastukancana
+1. Nama: Mahasiswa
+2. Email: mhs@stt-wastukancana.ac.id
+3. Akun Gitlab: @mahasiswa
+4. Akun Telegram: @mahasiswa
