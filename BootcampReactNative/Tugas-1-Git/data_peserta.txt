@@ -1,5 +1,5 @@
 Data Mahasiswa Teknik Informatika STT Wastukancana
-1. Nama: Mahasiswa
-2. Email: mhs@stt-wastukancana.ac.id
-3. Akun Gitlab: @mahasiswa
-4. Akun Telegram: @mahasiswa
+1. Nama: Angga Adi Wibowo
+2. Email: adia42289@gmail.com
+3. Akun Gitlab: adia42289
+4. Akun Telegram: 
